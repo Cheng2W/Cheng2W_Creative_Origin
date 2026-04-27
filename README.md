@@ -1,2 +1,8 @@
-# Cheng2W_Creative_Origin
-灵枢 VeyraCode &amp; 楚灵汐 Chu Lingxi
+### 知识产权法律备案信息
+1.  **国家版权登记号**：已申请，待获证
+2.  **区块链司法存证查询**：
+    - 保全网存证权属声明（一）：[点击查验](https://new.baoquan.com/attestation-mobile/1255669864555618304?type=0)
+    - 保全网存证权属声明（二）：[点击查验](https://new.baoquan.com/attestation-mobile/1255669865172176897?type=0)
+
+**著作权声明:**
+任何未经授权人本人书面许可的使用、复制、修改或商业开发，都将构成侵权。本人将保留追究其一切法律责任的权利，包括但不限于民事诉讼及刑
